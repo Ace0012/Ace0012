@@ -1,3 +1,9 @@
+<p align="center" >
+ <img src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg" alt="">
+
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Ayush Chandra</h1>
 <h3 align="center">An passionate full stack developer from India</h3>
 
