@@ -7,14 +7,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Ayush Chandra</h1>
-<h3 align="center">Aspiring MERN Stack Developer</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer form Uttar Pradesh, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ace0012&label=Profile%20views&color=0e75b6&style=flat"alt="ace0012" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ace0012" alt="ace0012" /></a> <img align="right"src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt=""></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ace0012" alt="ace0012" /></a> <img align="right" height="50" width="50"src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt=""></p>
 
 <p align="left"> <a href="https://twitter.com/ayushchandra_ac" target="blank"><img src="https://img.shields.io/twitter/follow/ayushchandra_ac?logo=twitter&style=for-the-badge" alt="ayushchandra_ac" /></a> </p>
 
-- 🌱 I’m currently learning **backend**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://ace0012.github.io/](https://ace0012.github.io/)
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pXxjAWxDqpFDNjHNdYBDy8E-hBMpuVcp/view?usp=sharing](https://drive.google.com/file/d/1pXxjAWxDqpFDNjHNdYBDy8E-hBMpuVcp/view?usp=sharing)
 
-- ⚡ Fun fact **One struggle I’ve had that has made me who I am is attending morning SCRUM💤**
+- ⚡ Fun fact **Struugle means :- Attending Morning Scrum **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
