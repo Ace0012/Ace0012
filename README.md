@@ -1,5 +1,4 @@
 
-<div style="background-color:white">
 
 <p align="center" >
  <img  src="https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg" alt="">
@@ -45,4 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace0012&show_icons=true&locale=en" alt="ace0012" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ace0012&" alt="ace0012" /></p>
-</div>
+
