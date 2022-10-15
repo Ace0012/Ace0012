@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ayushchandra.knp@gmail.com
 - ⚡ Fun fact: You feel you know everything but it's wrong.
 -->
-
-(https://github-readme-stats.vercel.app/api?username=Ace0012)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace0012)
 
 
 
