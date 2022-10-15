@@ -1,5 +1,8 @@
+
+<div style="background-color:white">
+
 <p align="center" >
- <img src="https://s3.eu-west-1.amazonaws.com/redsys-prod/articles/eac8c6d69d1ce8ce0ff8824d/images/teaserImage_xxxx_croppedTeaserImage.jpg" alt="">
+ <img  src="https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg" alt="">
 
 </p>
 
@@ -42,3 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace0012&show_icons=true&locale=en" alt="ace0012" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ace0012&" alt="ace0012" /></p>
+</div>
