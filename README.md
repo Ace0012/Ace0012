@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: You feel you know everything but it's wrong.
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ace0012 &theme=radical)
+(https://github-readme-stats.vercel.app/api?username=Ace0012)
 
 
 
