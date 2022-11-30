@@ -1,7 +1,7 @@
 
 
 <p align="center" >
- <img  src="https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg" alt="">
+ <img  src="https://www.eschoolnews.com/files/2021/02/coding-platform-STEM-code.jpg"  width ="100%"alt="">
 
 </p>
 
