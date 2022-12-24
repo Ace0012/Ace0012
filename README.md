@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ayushchandra.knp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q9de96w-8tL1qUU7e8jeESLIO8Jjm2Fz/view?usp=sharing](https://drive.google.com/file/d/1q9de96w-8tL1qUU7e8jeESLIO8Jjm2Fz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q9de96w-8tL1qUU7e8jeESLIO8Jjm2Fz/view?usp=sharing)
 
 - ⚡ Fun fact **Struugle means :- Attending Morning Scrum **
 
